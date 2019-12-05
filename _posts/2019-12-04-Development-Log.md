@@ -22,7 +22,6 @@ date-string: November 01, 2019
 #pragma config(Motor,  motorB,          lm,            tmotorEV3_Large, PIDControl, encoder)
 #pragma config(Motor,  motorC,          rm,            tmotorEV3_Large, PIDControl, encoder)
 #define MAX 9
-/*3 = green/+ 4 = yello/select 5 = red 2 = blue/-*/
 
 typedef struct rtype{
    int ri;
@@ -53,16 +52,6 @@ task main(){
     for(int i = 0; i < MAX; i++){
        roomlist[i].ri = i;
    }
-   /*roomlist[0].rbi=1;
-   roomlist[1].rbi=1;
-   roomlist[2].rbi=0;
-   roomlist[3].rbi=3;
-   roomlist[4].rbi=3;
-   roomlist[5].rbi=5;
-   roomlist[6].rbi=6;
-   roomlist[7].rbi=6;
-   roomlist[8].rbi=7;
-   roomlist[9].rbi=9;*/
    roomlist[0].rbi=1;
    roomlist[1].rbi=1;
    roomlist[2].rbi=3;

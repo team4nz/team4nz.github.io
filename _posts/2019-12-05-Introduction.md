@@ -7,6 +7,12 @@ featured-image: /images/intro/manz-intro1.jpg
 tags: [intro]
 date-string: October 18, 2019
 ---
+# Concept
+
+# Interaction
+
+
+
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 

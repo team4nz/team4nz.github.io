@@ -5,6 +5,16 @@ title: 1. Development Log
 tags: [dev]
 date-string: November 01, 2019
 ---
+# Task #1 - Line Tracing ( PID )
+
+# Task #2 - Color Sensing
+
+# Task #3 - Signal System
+
+# Full Code
+
+
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 

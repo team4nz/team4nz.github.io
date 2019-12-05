@@ -16,13 +16,14 @@ date-string: DECEMBER 03, 2019
 ### idx3
 
 > Trial 1
+
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dUkFd7WjgtQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7dLuNlptLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 > Trial 2
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QFNBfKsfd44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvUHuTyKeZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
@@ -35,12 +36,12 @@ date-string: DECEMBER 03, 2019
 
 > Trial 1
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O1pVHjuZYPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q6tEOeBuu_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 > Trial 2
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qCVZcwHohbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LR3myTeNBnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 

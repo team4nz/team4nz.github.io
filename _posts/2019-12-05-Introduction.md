@@ -5,7 +5,7 @@ title: 0. Introduction
 subtitle: EV3 LEGO MindStorms - Guide bot
 featured-image: /images/intro/manz-intro1.jpg
 tags: [intro]
-date-string: October 18, 2019
+date-string: DECEMBER 05, 2019
 ---
 # Concept
 

@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: 3. Trial Demo
 tags: [trial, demo, video]
-date-string: DECEMBER 05, 2019
+date-string: DECEMBER 03, 2019
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>

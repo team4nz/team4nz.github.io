@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: A Video Post
-tags: [sample post, video]
-date-string: NOVEMBER 14, 2016
+title: Trial Demo
+tags: [trial, demo, video]
+date-string: DECEMBER 05, 2019
 ---
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqAnYPiZiNA" frameborder="0" allowfullscreen></iframe>

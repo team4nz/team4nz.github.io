@@ -32,3 +32,8 @@ date-string: DECEMBER 05, 2019
 <center>
     <img src="/images/intro/manz-interaction1.jpg">
 </center>
+
+
+#### Next
+
+> link : <a target="_blank" href="https://team4nz.github.io//posts/2019-12-04/Task-Try-Catch.html"> 01. Task, Try and Catch

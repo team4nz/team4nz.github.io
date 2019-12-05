@@ -45,8 +45,8 @@ date-string: DECEMBER 04, 2019
   * Color Scheduling
 
     PID control -> 
-    컬러센서의 라인 이탈 ->
-    잘못된 Color 값 지속적으로 인식 ->
+    컬러센서 라인 이탈 ->
+    잘못된 Color 값 지속적 인식 ->
     하나의 Color 신호에서 여러 번 인식
     
     Solution : 같은 Color값 일정 수 이상 누적 시 인터렉션

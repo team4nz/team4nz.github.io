@@ -9,10 +9,13 @@ date-string: DECEMBER 05, 2019
 ---
 # Concept
 
+
 # Interaction
+
 
 # Development Log
 Code : <a href="https://team4nz.github.io//posts/2019-12-04/Development-Log.html"> 1. Development Log
+
 
 # Try and Catch : Exception
 
@@ -26,7 +29,9 @@ Code : <a href="https://team4nz.github.io//posts/2019-12-04/Development-Log.html
   * Battery Power
   * Color Sensor RGB Range
 
+
 # Trial Demo
 video : <a href="https://team4nz.github.io//posts/2019-12-03/Trial-Demo.html"> 2. Trial Demo
+
 
 # Plans

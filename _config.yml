@@ -4,7 +4,7 @@ copyright:        TEAM MANZ
 url: https://team4nz.github.io/
 
 
-future:      false  # publish future dated posts --  true, false (default)
+future:      true  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:

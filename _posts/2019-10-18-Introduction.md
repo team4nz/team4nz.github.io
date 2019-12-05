@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Introduction
+title: 0. Introduction
 subtitle: EV3 LEGO MindStorms - Guide bot
 featured-image: /images/intro/manz-intro1.jpg
 tags: [intro]

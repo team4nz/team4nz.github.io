@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Development Log
+title: 1. Development Log
 tags: [dev]
 date-string: November 01, 2019
 ---

@@ -7,6 +7,7 @@ date-string: DECEMBER 03, 2019
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+
 # Testing - Map
 <center>
     <div class="photoset-grid-custom" data-layout="213">

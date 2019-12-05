@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: posts
-title: Sample Post
-subtitle: This is a test post.
-featured-image: /images/2016-11-19/abstract-1.jpg
-tags: [sample post]
-date-string: NOVEMBER 20, 2016
+title: Introduction
+subtitle: EV3 LEGO MindStorms - Guide bot
+featured-image: /images/intro/manz-intro1.jpg
+tags: [intro]
+date-string: DECEMBER 05, 2019
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.

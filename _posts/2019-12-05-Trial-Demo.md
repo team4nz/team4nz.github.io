@@ -8,7 +8,7 @@ date-string: DECEMBER 05, 2019
 ### idx3 
 > Trial 1
 <center>
-<iframe width="560" height="315" src="https://youtu.be/embed/dUkFd7WjgtQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dUkFd7WjgtQ" frameborder="0" allowfullscreen></iframe>
 </center>
 > Trial 2
 <center>

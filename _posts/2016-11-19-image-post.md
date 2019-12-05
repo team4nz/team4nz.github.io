@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: Image Post
-tags: [sample post]
-date-string: NOVEMBER 19, 2016
+title: Development Log
+tags: [dev]
+date-string: DECEMBER 05, 2019
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
@@ -12,12 +12,7 @@ Lorem ipsum dolor sit amet, interdum fermentum arcu, ipsum venenatis curabitur d
 
 <center>
     <div class="photoset-grid-custom" data-layout="213">
-        <img src="/images/2016-11-19/abstract-1.jpg">
-        <img src="/images/2016-11-19/abstract-2.jpg">
-        <img src="/images/2016-11-19/abstract-3.jpg">
-        <img src="/images/2016-11-19/abstract-4.jpg">
-        <img src="/images/2016-11-19/abstract-5.jpg">
-        <img src="/images/2016-11-19/abstract-6.jpg">
+        <img src="/images/intro/manz-intro1.jpg">
     </div>
 </center>
 

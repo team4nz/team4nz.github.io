@@ -8,11 +8,10 @@ date-string: DECEMBER 03, 2019
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
-# Testing - Map
+# Testing - Map1 : restroom
 <center>
-    <img src="/images/map/manz-map.jpg">
+    <img src="/images/map/manz-map1.jpg">
 </center>
-
 
 ### idx3
 
@@ -26,6 +25,11 @@ date-string: DECEMBER 03, 2019
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QFNBfKsfd44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
+
+# Testing - Map2 : office room
+<center>
+    <img src="/images/map/manz-map2.jpg">
+</center>
 
 ### idx6
 

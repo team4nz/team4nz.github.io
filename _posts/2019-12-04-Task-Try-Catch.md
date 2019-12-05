@@ -1,0 +1,21 @@
+---
+layout: post
+categories: posts
+title: 1. Task, Try and Catch
+tags: [try, catch, task]
+date-string: DECEMBER 04, 2019
+---
+
+# Task
+
+# Try and Catch : Exception
+
+> Separation from real world
+
+  * Scheduling
+  * PID Control : angle of entry
+
+> EV3's limit
+
+  * Battery Power
+  * Color Sensor RGB Range

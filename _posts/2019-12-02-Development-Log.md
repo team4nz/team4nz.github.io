@@ -1,10 +1,11 @@
 ---
 layout: post
 categories: posts
-title: 1. Development Log
+title: 3. Development Log
 tags: [dev]
-date-string: DECEMBER 04, 2019
+date-string: DECEMBER 02, 2019
 ---
+
 # Task #1 - Line Tracing ( PID )
 
 ```c++

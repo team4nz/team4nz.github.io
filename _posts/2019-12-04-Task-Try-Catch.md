@@ -46,18 +46,15 @@ date-string: DECEMBER 04, 2019
 
     <br>
     PID control -> 컬러센서의 라인 이탈
-    
     <br>
     -> 잘못된 Color 값 지속적으로 인식
-    
     <br>
     -> 하나의 Color 신호에서 여러 번 인식
     
     <br>
-    Solution : 같은 Color값 일정 수 이상 누적 시 인터랙션
-    
-    <br>
-               같은 Color값 중복 인터렉션 예외처리
+    * Solution
+        - 같은 Color값 일정 수 이상 누적 시 인터랙션
+        - 같은 Color값 중복 인터렉션 예외처리
     
        
 

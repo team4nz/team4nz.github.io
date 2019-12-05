@@ -42,3 +42,8 @@ date-string: DECEMBER 03, 2019
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qCVZcwHohbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+
+#### Next
+
+> link : <a target="_blank" href="https://team4nz.github.io//posts/2019-12-02/Development-Log.html"> 03. Development Log

@@ -10,7 +10,7 @@ date-string: DECEMBER 03, 2019
 
 # Testing - Map
 <center>
-    <div class="photoset-grid-custom" data-layout="213">
+    <div class="photoset-grid-custom" data-layout="400">
         <img src="/images/map/manz-map.jpg">
     </div>
 </center>

@@ -4,7 +4,7 @@ copyright:        TEAM MANZ
 url: https://team4nz.github.io/
 
 
-future:      false  # publish future dated posts --  true, false (default)
+future:      true  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
@@ -20,7 +20,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 4
 
 #kramdown:
 #  input: GFM

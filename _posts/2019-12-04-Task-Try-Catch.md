@@ -43,14 +43,12 @@ date-string: DECEMBER 04, 2019
     Line 두께, 센서사이의 거리에 따라 계수 재설정
 
   * Color Scheduling
-
     <br>
     PID control -> 컬러센서의 라인 이탈
     <br>
     -> 잘못된 Color 값 지속적으로 인식
     <br>
     -> 하나의 Color 신호에서 여러 번 인식
-    
     <br>
     * Solution
         - 같은 Color값 일정 수 이상 누적 시 인터랙션

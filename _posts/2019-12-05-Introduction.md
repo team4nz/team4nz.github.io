@@ -12,10 +12,7 @@ date-string: DECEMBER 05, 2019
 # Interaction
 
 # Code
-
-<br>
-Code <a href="https://team4nz.github.io//posts/2019-12-04/Development-Log.html">: 1. Development Log </a>.
-</p>
+Code : <a href="https://team4nz.github.io//posts/2019-12-04/Development-Log.html"> 1. Development Log
 
 # Try and Catch : Exception
 

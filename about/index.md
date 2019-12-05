@@ -23,5 +23,5 @@ Team Members : 김도원 김민준 나윤재 정대윤 정만성
 <p>
 Record the process of creating a guide robot prototype for the blind.
 <br>
-: Intro, Dev-Log, Demo-Trial, PPT.
+: Intro, Task-Try&Catch, Dev-Log, Demo-Trial, PPT.
 </p>

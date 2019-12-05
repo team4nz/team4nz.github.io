@@ -8,6 +8,11 @@ date-string: DECEMBER 04, 2019
 
 # Task
 
+<center>
+    <img src="/images/intro/manz-task1.jpg">
+</center>
+
+
 # Try and Catch : Exception
 
 > Separation from real world

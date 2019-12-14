@@ -24,4 +24,11 @@ date-string: DECEMBER 01, 2019
 </center>
 
 > Final PPT [ DECEMBER 06, 2019 ]
-soon...
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpnBUZdeUj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+> Final PPT DEMO [ DECEMBER 06, 2019 ]
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/betwKUKrKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
